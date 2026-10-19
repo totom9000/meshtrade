@@ -75,7 +75,7 @@ picks up where it left off when you start it again.
 
 ## Supported coins
 
-Lumenite (LMT), Riecoin (RIC), RCPU, ConnectCoin (CONN), Avian (AVN),
+Lumenite (LMT), Riecoin (RIC), RCPU, Avian (AVN),
 Bitcoin (BTC), Litecoin (LTC), and USDC on Polygon.
 
 Which pairs are open right now is shown on
